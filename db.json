@@ -1,0 +1,12 @@
+{
+    "contactos":[
+    {
+        "id":1,
+        "nombre":"Ejemplo Inicial",
+        "telefono":"33525352",
+        "email":"ejemplo@gmail.com",
+        "empresa":"Ejemplo S.A",
+        "etiqueta":"demo"
+    }
+]
+}
